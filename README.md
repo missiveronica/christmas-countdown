@@ -2,15 +2,17 @@
 
 <div>
   <p align="center">
-    <img src="Logo.png" width="150"> 
+    <img src="https://img.freepik.com/free-vector/christmas-character-holding-blank-banner_23-2148769949.jpg?t=st=1714016103~exp=1714019703~hmac=dae9b32950e7f98a963a43c4b3859be0ac640324609c7b46e7507816ea937edb&w=900" width="200"> 
   </p>
 </div>
 
-My-Travel-Checklist is the application that allows to compose the list of to-do-things and items required for travelling, tick the items completed or delete them from the list.
+Christmas-Countdown is the application that tracks the remainder of days, minutes and seconds until Christmas. It has the feature of snow animation as well as audio.
 
 
-[![made-with-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-![Netlify](https://img.shields.io/netlify/657ad182-3a46-4397-b695-3e5be69ea1b5?style=for-the-badge&logo=Netlify&labelColor=%2320232a&link=https%3A%2F%2Fgleaming-pie-0cf883.netlify.app%2F)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+![Netlify](https://img.shields.io/netlify/657ad182-3a46-4397-b695-3e5be69ea1b5)
+
+
 
 
 
@@ -19,16 +21,16 @@ My-Travel-Checklist is the application that allows to compose the list of to-do-
 
 
   <p align="center">
-    An awesome App to jumpstart your Travel projects!
+    An awesome App to jumpstart your Christmas Countdown!
     <br />
-    <a href="https://github.com/missiveronica/my-travel-checklist"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/missiveronica/christmas-countdown"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/missiveronica/my-travel-checklist">View Demo</a>
+    <a href="https://github.com/missiveronica/christmas-countdown">View Demo</a>
     ·
-    <a href="https://github.com/missiveronica/my-travel-checklist/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/missiveronica/christmas-countdown">/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/missiveronica/my-travel-checklist/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/missiveronica/christmas-countdown">/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
