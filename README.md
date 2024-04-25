@@ -84,10 +84,10 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/missiveronica/my-travel-checklist.git
+   git clone https://github.com/missiveronica/christmas-countdown.git
 2. Go into the repository
    ```sh
-   cd my-travel-checklist
+   cd christmas-countdown
    ```
 3. Install NPM packages
    ```sh
