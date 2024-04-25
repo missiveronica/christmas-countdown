@@ -37,7 +37,7 @@ https://github.com/missiveronica/christmas-countdown/assets/158709359/353724f0-9
 
 
 
-The Application was created to practice class components which will be the base for learning the Redux.
+The Application was created in Javascript Learning purposes.
 
 ### Features
 
